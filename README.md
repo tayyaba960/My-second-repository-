@@ -1,1 +1,2 @@
-# My-second-repository-
+print("name")
+name=("abc")
